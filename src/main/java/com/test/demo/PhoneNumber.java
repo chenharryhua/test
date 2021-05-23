@@ -1,4 +1,4 @@
-package au.com.test;
+package com.test.demo;
 
 public interface PhoneNumber {
     boolean activate();

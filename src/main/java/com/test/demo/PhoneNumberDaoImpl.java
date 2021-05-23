@@ -1,8 +1,9 @@
-package au.com.test;
+package com.test.demo;
 
 import java.util.Optional;
 import java.util.Set;
 import java.util.stream.Collectors;
+
 
 public class PhoneNumberDaoImpl implements PhoneNumberDao {
     private Set<Customer> customers;
